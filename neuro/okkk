@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Document</title>
+
+    <link rel="stylesheet" type= "text/css" href="style.css">
+
+</head>
+<body>
+    <h1>welcome to developers institue </h1>
+    <h2>html and css</h2>
+
+    <p>today we will learn a bunch of studd and other things</p>
+    
+
+           <ol>
+        <li> pizza </li>
+        <ul>
+            <li>mozarella</li>
+        <li>cheese 
+            <li>mushroom</li>
+        </ul>
+        <br>
+
+        <li> sushi </li>
+        <li> brique </li>
+    
+    </ol>
+</body>
+</html>
